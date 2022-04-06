@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+
+```> sudo curl -fsSL https://deb.nodesource.com/setup_14.x | sudo bash -```  
+`> sudo apt install nodejs `  
+`> sudo apt install npm `  
+`> npx create-react-app my-app  `  
 
 ## Available Scripts
 
