@@ -2,6 +2,12 @@
 
 [https://ru.reactjs.org/tutorial/tutorial.html](https://ru.reactjs.org/tutorial/tutorial.html)  
 
+## create build and run it  
+
+` sudo npm i -g serve `  
+` npm run build `  
+` serve -s -n build `  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
