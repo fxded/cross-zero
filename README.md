@@ -2,6 +2,8 @@
 
 [https://ru.reactjs.org/tutorial/tutorial.html](https://ru.reactjs.org/tutorial/tutorial.html)  
 
+`npx create-react-app my-app`
+
 ## create build and run it  
 
 ` sudo npm i -g serve `  
