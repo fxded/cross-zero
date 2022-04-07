@@ -1,3 +1,7 @@
+# Instruction for create this game  
+
+[https://ru.reactjs.org/tutorial/tutorial.html](https://ru.reactjs.org/tutorial/tutorial.html)  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
